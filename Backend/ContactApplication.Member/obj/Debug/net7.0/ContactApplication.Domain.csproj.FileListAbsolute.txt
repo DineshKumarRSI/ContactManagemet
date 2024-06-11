@@ -1,0 +1,12 @@
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Member\bin\Debug\net7.0\ContactApplication.Domain.deps.json
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Member\bin\Debug\net7.0\ContactApplication.Domain.dll
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Member\bin\Debug\net7.0\ContactApplication.Domain.pdb
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Member\obj\Debug\net7.0\ContactApplication.Domain.csproj.AssemblyReference.cache
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Member\obj\Debug\net7.0\ContactApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Member\obj\Debug\net7.0\ContactApplication.Domain.AssemblyInfoInputs.cache
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Member\obj\Debug\net7.0\ContactApplication.Domain.AssemblyInfo.cs
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Member\obj\Debug\net7.0\ContactApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Member\obj\Debug\net7.0\ContactApplication.Domain.dll
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Member\obj\Debug\net7.0\refint\ContactApplication.Domain.dll
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Member\obj\Debug\net7.0\ContactApplication.Domain.pdb
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Member\obj\Debug\net7.0\ref\ContactApplication.Domain.dll

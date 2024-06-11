@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4h5dTF1yFe2ztK4cDIxLTq2ve41tTEIlaQ3K6nFegCgklbf9H0ODJ56pol2/V7aERtSo53Wnl21MZT/X/RrefA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dinesh\\Desktop\\ContactManagement\\ContactManagement\\ContactApplication.Application\\ContactApplication.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dinesh\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dinesh\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dinesh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

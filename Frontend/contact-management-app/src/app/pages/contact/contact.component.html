@@ -1,0 +1,92 @@
+<div class="row">
+  <div class="col-sm-10">
+    <h1> Contact Management </h1>
+  </div>
+</div>
+
+<div class="row mt-4 mb-2">
+  <div class="col mb-2">
+    <button (click)="openAddModal()" type="button" class="btn btn-success"  data-bs-toggle="modal" data-bs-target="#addEditContact">New <i class="bi bi-plus"></i></button>
+  </div>
+  <div class="col-sm-6">
+    <input class="form-control" placeholder="Search" [(ngModel)]="search" (keyup)="fetchAllContact()">
+  </div>
+</div>
+
+<table class="table" *ngIf="contacts.length > 0">
+  <thead>
+    <tr>
+      <th (click)="sortColumnBy('Id')">
+        <span class="d-flex flex-row justify-content-between">
+          <span> Id </span>
+          <span *ngIf="tableModel.sorting!= null && tableModel.sorting.columnName == 'Id'">
+            <i class="bi bi-sort-alpha-{{tableModel.sorting.order == 2?'down':'up'}}"></i>
+          </span>
+        </span>
+      </th>
+      <th (click)="sortColumnBy('FirstName')">
+        <span class="d-flex flex-row justify-content-between">
+          <span> First Name </span>
+          <span *ngIf="tableModel.sorting!= null && tableModel.sorting.columnName == 'FirstName'">
+            <i class="bi bi-sort-alpha-{{tableModel.sorting.order == 2?'down':'up'}}"></i>
+          </span>
+        </span>
+      </th>
+      <th (click)="sortColumnBy('LastName')">
+        <span class="d-flex flex-row justify-content-between">
+          <span> Last Name </span>
+          <span *ngIf="tableModel.sorting!= null && tableModel.sorting.columnName == 'LastName'">
+            <i class="bi bi-sort-alpha-{{tableModel.sorting.order == 2?'down':'up'}}"></i>
+          </span>
+        </span>
+      </th>
+      <th (click)="sortColumnBy('Email')">
+        <span class="d-flex flex-row justify-content-between">
+          <span> Email </span>
+          <span *ngIf="tableModel.sorting!= null && tableModel.sorting.columnName == 'Email'">
+            <i class="bi bi-sort-alpha-{{tableModel.sorting.order == 2?'down':'up'}}"></i>
+          </span>
+        </span>
+      </th>
+      <th class="action">Edit</th>
+      <th class="action">Delete</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let contact of contacts">
+      <th scope="row">{{contact.id}}</th>
+      <td>{{contact.firstName}}</td>
+      <td>{{contact.lastName}}</td>
+      <td>{{contact.email}}</td>
+      <td><button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#addEditContact" (click)="openEditModal(contact.id)"> Edit <i
+            class="bi bi-pencil-square"></i></button></td>
+      <td><button type="button" class="btn btn-danger" data-bs-toggle="modal" data-bs-target="#deleteConfirmation" (click)="openDeleteModal(contact.id)"> Delete <i
+            class="bi bi-trash3-fill"></i></button></td>
+    </tr>
+</table>
+
+<div  *ngIf="contacts.length > 0">
+  <nav aria-label="..." >
+    <ul class="pagination ">
+      <li [className]="tableModel.pageNumber == 1?'page-item disabled':'page-item'">
+        <a class="page-link" href="javascript:void(0)"
+          (click)="previousPage()">Previous</a>
+      </li>
+      <li *ngFor="let page of paginatorArray" class="page-item">
+        <a [className]="tableModel.pageNumber == page ?'page-link active':'page-link'" href="javascript:void(0)"
+          (click)="fetchAllContact(page)">{{page}}</a>
+      </li>
+      <li class="page-item">
+        <a [className]="tableModel.pageNumber == paginatorArray.length ?'page-link disabled':'page-link'"
+          href="javascript:void(0)"
+          (click)="nextPage()">Next</a>
+      </li>
+    </ul>
+  </nav>
+</div>
+
+<app-add-edit-contact [title]="title" [type]="type" [contact]="selectedContact" (saveNewContactEvent)="addNewContact($event)"
+  (updateContactEvent)="updateContact($event)" #modal></app-add-edit-contact>
+
+<app-confirmation [message]="message"  [id]="id" (deleteContactEvent)="deleteContact($event)" #deleteModal>
+</app-confirmation>

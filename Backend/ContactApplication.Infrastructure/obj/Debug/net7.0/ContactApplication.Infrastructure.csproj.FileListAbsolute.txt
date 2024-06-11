@@ -1,0 +1,17 @@
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Infrastructure\bin\Debug\net7.0\ContactApplication.Infrastructure.deps.json
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Infrastructure\bin\Debug\net7.0\ContactApplication.Infrastructure.dll
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Infrastructure\bin\Debug\net7.0\ContactApplication.Infrastructure.pdb
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Infrastructure\bin\Debug\net7.0\ContactApplication.Application.dll
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Infrastructure\bin\Debug\net7.0\ContactApplication.Domain.dll
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Infrastructure\bin\Debug\net7.0\ContactApplication.Application.pdb
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Infrastructure\bin\Debug\net7.0\ContactApplication.Domain.pdb
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Infrastructure\obj\Debug\net7.0\ContactApplication.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Infrastructure\obj\Debug\net7.0\ContactApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Infrastructure\obj\Debug\net7.0\ContactApplication.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Infrastructure\obj\Debug\net7.0\ContactApplication.Infrastructure.AssemblyInfo.cs
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Infrastructure\obj\Debug\net7.0\ContactApplication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Infrastructure\obj\Debug\net7.0\ContactApplication.Infrastructure.csproj.CopyComplete
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Infrastructure\obj\Debug\net7.0\ContactApplication.Infrastructure.dll
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Infrastructure\obj\Debug\net7.0\refint\ContactApplication.Infrastructure.dll
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Infrastructure\obj\Debug\net7.0\ContactApplication.Infrastructure.pdb
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Infrastructure\obj\Debug\net7.0\ref\ContactApplication.Infrastructure.dll

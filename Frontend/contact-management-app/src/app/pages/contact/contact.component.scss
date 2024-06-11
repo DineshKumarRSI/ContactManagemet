@@ -1,0 +1,8 @@
+table th:not(.action){
+    cursor: pointer;
+}
+
+nav {
+    display: flex;
+    overflow: auto;
+}

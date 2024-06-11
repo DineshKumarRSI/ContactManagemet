@@ -1,0 +1,15 @@
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Application\bin\Debug\net7.0\ContactApplication.Application.deps.json
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Application\bin\Debug\net7.0\ContactApplication.Application.dll
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Application\bin\Debug\net7.0\ContactApplication.Application.pdb
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Application\bin\Debug\net7.0\ContactApplication.Domain.dll
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Application\bin\Debug\net7.0\ContactApplication.Domain.pdb
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Application\obj\Debug\net7.0\ContactApplication.Application.csproj.AssemblyReference.cache
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Application\obj\Debug\net7.0\ContactApplication.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Application\obj\Debug\net7.0\ContactApplication.Application.AssemblyInfoInputs.cache
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Application\obj\Debug\net7.0\ContactApplication.Application.AssemblyInfo.cs
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Application\obj\Debug\net7.0\ContactApplication.Application.csproj.CoreCompileInputs.cache
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Application\obj\Debug\net7.0\ContactApplication.Application.csproj.CopyComplete
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Application\obj\Debug\net7.0\ContactApplication.Application.dll
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Application\obj\Debug\net7.0\refint\ContactApplication.Application.dll
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Application\obj\Debug\net7.0\ContactApplication.Application.pdb
+C:\Users\Dinesh\Desktop\ContactManagement\ContactManagement\ContactApplication.Application\obj\Debug\net7.0\ref\ContactApplication.Application.dll
